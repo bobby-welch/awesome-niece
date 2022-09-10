@@ -31,7 +31,7 @@ Looking back at the 4 kinematic equations, you need to find one that involves th
 
 $$v^2 = v_0^2 + 2 a \Delta y$$
 
-But first, we need to get $y_2$ alone on the right side of the equation as follows:
+But first, we need to get $y_2$ alone on the left side of the equation as follows:
 
 $$\begin{align*}
 v^2 &= v_0^2 + 2a \Delta y \\
@@ -42,28 +42,28 @@ v^2 - v_0^2 &= 2a (y_2 - y_1) \\
 y_2 &= \frac{v^2 - v_0^2}{2a} + y_1 \\
 \end{align*}$$
 
-Now, plug-n-chug (and make sure that units cancel correctly!
+Now, plug-n-chug (and make sure that units cancel correctly!):
 
 $$\begin{align*}
   y_2 &= \frac{0^2 - (20 \frac{m}{s})^2}{2 (-9.8 \frac{m}{s^2})} + 0 \\
   y_2 &= \frac{(- 400 \frac{m^2}{s^2})}{2 (-9.8 \frac{m}{s^2})} \\
-  y_2 &= 20.41\, m
+  y_2 &= 20.41 m
 \end{align*}$$
 
 ## Question: How long is it in their air, neglecting air resistance?
 
 Again, think about what you know:
 
-- $\Delta y = 20.4 m$ (from first question)
+- $\Delta y = 20.41 m$ (from first question)
 - $v_0 = 20 \frac{m}{s}$
 - $v_1 = 0 \frac{m}{s}$
 - $a = -9.8 \frac{m}{s}$
 
-Now, go check out the kinematic equations, and pick one that involves the values noted above and $t$ (since that is what the question is asking us to find).  I would pick the following equation, since it is easy to manipulate:
+Now, go check out the kinematic equations and pick one that involves the values noted above and $t$ (since that is what the question is asking us to find).  I would pick the following equation, since it is easy to manipulate:
 
 $v = v_0 + at$
 
-Now, get $t$ alone on the lift side of the equation:
+Now, get $t$ alone on the left side of the equation:
 
 $$\begin{align*}
   v &= v_0 + at \\
